@@ -62,7 +62,7 @@ local_rank:
 logging_steps: 1
 xformers_attention:
 flash_attention: true
-
+eval_sample_packing: False
 warmup_steps: 10
 eval_steps: 20
 save_steps: 20
