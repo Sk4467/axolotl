@@ -8,7 +8,7 @@ load_in_4bit: true
 strict: false
 
 datasets:
-  - path: ashu3984/PHYSIGEN-phy-alpaca
+  - path: ashu3984/PHYSIGENAI-phy-small
     type: alpaca:instruct
 dataset_prepared_path: last_run_prepared
 val_set_size: 0.01
