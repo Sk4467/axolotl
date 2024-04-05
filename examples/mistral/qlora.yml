@@ -8,8 +8,8 @@ load_in_4bit: true
 strict: false
 
 datasets:
-  - path: Sk4467/Intrux_dataset_2
-    type: alpaca
+  - path: Sk4467/Instrux_data_3
+    type: alpaca:instruct
 dataset_prepared_path:
 val_set_size: 0.01
 hub_model_id: Sk4467/llama2-med
