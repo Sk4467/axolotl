@@ -8,7 +8,7 @@ load_in_4bit: true
 strict: false
 
 datasets:
-  - path: Sk4467/Instrux_data_3
+  - path: Sk4467/Instrux_data_4
     type: alpaca:instruct
 dataset_prepared_path:
 val_set_size: 0.01
